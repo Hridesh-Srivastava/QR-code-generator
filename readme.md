@@ -1,1 +1,1 @@
-# QR-code-generator
+Check out Linkedin: https://www.linkedin.com/in/hridayesh-srivastava-9575901bb/

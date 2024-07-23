@@ -19,9 +19,9 @@ inquirer
 })
 .catch((error)=>{
     if(error.isTtyError){
-
+        console.error('not found');
     }
     else{
-
+        console.error('error while fatching',error);
     }
 });

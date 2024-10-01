@@ -1,16 +1,1 @@
-{ "type":"module",
-  "dependencies": {
-    "inquirer": "^9.2.19",
-    "qr-image": "^3.2.0"
-  },
-  "name": "2.4-qr-code-backend",
-  "version": "1.0.0",
-  "description": "ok go there to check it",
-  "main": "index.js",
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "hridesh",
-  "license": "ISC"
-}
+{"type":"module","dependencies":{"inquirer":"^11.1.0","qr-image":"^3.2.0"},"name":"2.4-qr-code-backend","version":"1.0.0","description":"ok go there to check it","main":"index.js","scripts":{"test":"echo \"Error: no test specified\" && exit 1"},"author":"hridesh","license":"ISC"}
